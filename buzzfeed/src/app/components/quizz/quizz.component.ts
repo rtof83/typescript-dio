@@ -66,4 +66,8 @@ export class QuizzComponent implements OnInit {
    
    return result;
   };
+
+  newQuizz() {
+    window.location.href = '/';
+  };
 };
