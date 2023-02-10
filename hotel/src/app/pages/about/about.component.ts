@@ -9,4 +9,4 @@ import dbAccommodations from 'src/app/data/dbAccommodations';
 
 export class AboutComponent {
   accommodations: any = dbAccommodations;
-}
+};

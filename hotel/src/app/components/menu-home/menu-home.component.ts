@@ -29,4 +29,4 @@ export class MenuHomeComponent implements OnInit {
       }
     });  
   };
-}
+};
