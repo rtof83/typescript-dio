@@ -15,7 +15,7 @@ p {
 }
 
 #imagem1 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/QuartoCasal.png");
+  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/main/src/assets/images/QuartoCasal.png");
   width: 400px;
   height: 250px;
   opacity: 1;
@@ -28,7 +28,7 @@ p {
 }
 
 #imagem2 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/SuítePresidencial.jpg");
+  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/main/src/assets/images/SuítePresidencial.jpg");
   width: 400px;
   height: 250px;
   opacity: 1;
@@ -41,7 +41,7 @@ p {
 }
 
 #imagem3 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/quarto_hotel.jpg");
+  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/main/src/assets/images/quarto_hotel.jpg");
   width: 400px;
   height: 250px;
   opacity: 1;
@@ -51,105 +51,6 @@ p {
 }
 #imagem3:hover {
   opacity: 0.7;
-}
-
-#img-1 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/QuartoCasal.png");
-  height: 300px;
-  width: 100%;
-  margin-bottom: 10px;
-  background-position: center;
-  background-size: cover;
-}
-
-#img-2 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/quarto-duplo-vista-mar.jpg");
-  height: 300px;
-  width: 100%;
-  margin-bottom: 10px;
-  background-position: center;
-  background-size: cover;
-}
-
-#img-3 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/quarto_hotel.jpg");
-  height: 300px;
-  width: 100%;
-  margin-bottom: 10px;
-  background-position: center;
-  background-size: cover;
-}
-
-#img-4 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/QuartoLuxo.jpg");
-  height: 300px;
-  width: 100%;
-  margin-bottom: 10px;
-  background-position: center;
-  background-size: cover;
-}
-
-#img-5 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/suite-estudio-3.jpg");
-  height: 300px;
-  width: 100%;
-  margin-bottom: 10px;
-  background-position: center;
-  background-size: cover;
-}
-
-#img-6 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/suite-executiva-4.jpg");
-  height: 300px;
-  width: 100%;
-  margin-bottom: 10px;
-  background-position: center;
-  background-size: cover;
-}
-
-#img-7 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/1604663246841.jpg");
-  height: 300px;
-  width: 100%;
-  margin-bottom: 10px;
-  background-position: center;
-  background-size: cover;
-}
-
-#img-8 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/suite-presidencial-1.jpg");
-  height: 300px;
-  width: 100%;
-  margin-bottom: 10px;
-  background-position: center;
-  background-size: cover;
-}
-
-#img-9 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/SuítePresidencial.jpg");
-  height: 300px;
-  width: 100%;
-  margin-bottom: 10px;
-  background-position: center;
-  background-size: cover;
-}
-
-#image1 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/QuartoCasal.png");
-  width: 400px;
-  height: 280px;
-}
-
-#image2 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/SuítePresidencial.jpg");
-  width: 400px;
-  height: 280px;
-}
-
-#image3 {
-  content: url("https://raw.githubusercontent.com/rtof83/tex-js-grupo4/dev/src/assets/images/quarto_hotel.jpg");
-  width: 400px;
-  height: 280px;
 }
 
 h1 {
